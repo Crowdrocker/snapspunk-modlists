@@ -1,128 +1,106 @@
 [
   {
-    "$type": "Modlist, Wabbajack.Lib",
-    "title": "SNAPSPUNK-2077 EBB",
-    "description": "Story-driven & tactical Cyberpunk 2077 overhaul with EBB body. Faster TTK, smarter AI, expanded cyberware/perks, immersive Atelier shops, and full cosmetics support (hair, tattoos, presets). Inspired by Chrome & Blood but fully customized for body-type gameplay.",
-    "author": "Matthew Berks (Wehttam_Snaps)",
-    "maintainers": [
-      "github/WehttamSnaps"
-    ],
+    "title": "SNAPSPUNK-2077",
+    "description": "A story-driven, tactical overhaul of Cyberpunk 2077 with support for multiple body types (EBB and KS Solo Body). Features enhanced combat, smarter AI, immersive gameplay, and organized Atelier shops by modder.",
+    "author": "[YourName]",
+    "maintainers": ["github/[YourGithubUsername]"],
     "game": "cyberpunk2077",
     "tags": [
       "SFW",
       "Steam",
       "Tactical",
-      "Overhaul"
+      "Story-Driven",
+      "BodyMods"
     ],
     "nsfw": false,
     "image_contains_title": false,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/WehttamSnaps/snapspunk-modlists/main/banner-2077-ebb.webp",
-      "readme": "https://github.com/WehttamSnaps/snapspunk-modlists/blob/main/README.md",
-      "download": "REPLACE_WITH_ACTUAL_WABBAJACK_DOWNLOAD_URL_AFTER_COMPILATION",
-      "machineURL": "Snapspunk2077EBB",
-      "discordURL": "https://discord.gg/REPLACE_YOUR_DISCORD"
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/[YourUsername]/SNAPSPUNK-2077/main/images/banner.png",
+      "readme": "https://github.com/[YourUsername]/SNAPSPUNK-2077#readme",
+      "download": "https://authored-files.wabbajack.org/SNAPSPUNK-2077_[VERSION].wabbajack",
+      "machineURL": "SNAPSPUNK-2077",
+      "discordURL": "https://discord.gg/[YourInviteCode]"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "[GeneratedByWabbajack]",
       "Size": 0,
       "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
       "NumberOfInstalledFiles": 0,
       "SizeOfInstalledFiles": 0
     },
     "version": "1.0.0"
   },
   {
-    "$type": "Modlist, Wabbajack.Lib",
-    "title": "SNAPSPUNK-2077 Solo Body",
-    "description": "Story-driven & tactical Cyberpunk 2077 overhaul with -KS- The Solo Body. Same core tactical gameplay, weapons, cyberware, and immersion as the EBB version but optimized for Solo Body replacer, presets, clothing, and Atelier shops.",
-    "author": "Matthew Berks (Wehttam_Snaps)",
-    "maintainers": [
-      "github/WehttamSnaps"
-    ],
-    "game": "cyberpunk2077",
-    "tags": [
-      "SFW",
-      "Steam",
-      "Tactical",
-      "Overhaul"
-    ],
-    "nsfw": false,
-    "image_contains_title": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/WehttamSnaps/snapspunk-modlists/main/banner-2077-solo.webp",
-      "readme": "https://github.com/WehttamSnaps/snapspunk-modlists/blob/main/README.md",
-      "download": "REPLACE_WITH_ACTUAL_WABBAJACK_DOWNLOAD_URL_AFTER_COMPILATION",
-      "machineURL": "Snapspunk2077Solo",
-      "discordURL": "https://discord.gg/REPLACE_YOUR_DISCORD"
-    },
-    "download_metadata": {
-      "Size": 0,
-      "NumberOfArchives": 0,
-      "NumberOfInstalledFiles": 0,
-      "SizeOfInstalledFiles": 0
-    },
-    "version": "1.0.0"
-  },
-  {
-    "$type": "Modlist, Wabbajack.Lib",
-    "title": "SNAPSPUNK-FO4 Base",
-    "description": "Story-driven & tactical Fallout 4 modlist inspired by Magnum Opus. Clean, stable, packed with new content. No Sim Settlements. Uses the built-in Wabbajack downgrade to the exact version Magnum Opus expects.",
-    "author": "Matthew Berks (Wehttam_Snaps)",
-    "maintainers": [
-      "github/WehttamSnaps"
-    ],
+    "title": "SNAPSPUNK-FALLOUT4 - Sim Settlements",
+    "description": "A story-driven, tactical overhaul of Fallout 4 with Sim Settlements 2. Features enhanced combat, smarter AI, expanded quests, and full city builder capabilities. Includes SS2 Chapters and city plans.",
+    "author": "[YourName]",
+    "maintainers": ["github/[YourGithubUsername]"],
     "game": "fallout4",
     "tags": [
       "SFW",
       "Steam",
       "Tactical",
-      "Overhaul"
+      "Story-Driven",
+      "SimSettlements",
+      "CityBuilder"
     ],
     "nsfw": false,
     "image_contains_title": false,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/WehttamSnaps/snapspunk-modlists/main/banner-fo4-base.webp",
-      "readme": "https://github.com/WehttamSnaps/snapspunk-modlists/blob/main/README.md",
-      "download": "REPLACE_WITH_ACTUAL_WABBAJACK_DOWNLOAD_URL_AFTER_COMPILATION",
-      "machineURL": "SnapspunkFo4Base",
-      "discordURL": "https://discord.gg/REPLACE_YOUR_DISCORD"
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/[YourUsername]/SNAPSPUNK-FALLOUT4/main/images/banner.png",
+      "readme": "https://github.com/[YourUsername]/SNAPSPUNK-FALLOUT4#readme",
+      "download": "https://authored-files.wabbajack.org/SNAPSPUNK-FALLOUT4_SS2_[VERSION].wabbajack",
+      "machineURL": "SNAPSPUNK-FALLOUT4-SS2",
+      "discordURL": "https://discord.gg/[YourInviteCode]"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "[GeneratedByWabbajack]",
       "Size": 0,
       "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
       "NumberOfInstalledFiles": 0,
       "SizeOfInstalledFiles": 0
     },
     "version": "1.0.0"
   },
   {
-    "$type": "Modlist, Wabbajack.Lib",
-    "title": "SNAPSPUNK-FO4 SS",
-    "description": "Story-driven & tactical Fallout 4 modlist inspired by Magnum Opus + full Sim Settlements 2 integration. Same core experience as the Base profile but with complete settlement building and chapters enabled.",
-    "author": "Matthew Berks (Wehttam_Snaps)",
-    "maintainers": [
-      "github/WehttamSnaps"
-    ],
+    "title": "SNAPSPUNK-FALLOUT4 - Traditional",
+    "description": "A story-driven, tactical overhaul of Fallout 4 without Sim Settlements. Features enhanced combat, smarter AI, expanded quests, and traditional manual workshop building with expanded options.",
+    "author": "[YourName]",
+    "maintainers": ["github/[YourGithubUsername]"],
     "game": "fallout4",
     "tags": [
       "SFW",
       "Steam",
       "Tactical",
-      "Overhaul",
-      "Settlements"
+      "Story-Driven",
+      "Workshop",
+      "NoSurvival"
     ],
     "nsfw": false,
     "image_contains_title": false,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/WehttamSnaps/snapspunk-modlists/main/banner-fo4-ss.webp",
-      "readme": "https://github.com/WehttamSnaps/snapspunk-modlists/blob/main/README.md",
-      "download": "REPLACE_WITH_ACTUAL_WABBAJACK_DOWNLOAD_URL_AFTER_COMPILATION",
-      "machineURL": "SnapspunkFo4SS",
-      "discordURL": "https://discord.gg/REPLACE_YOUR_DISCORD"
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/[YourUsername]/SNAPSPUNK-FALLOUT4/main/images/banner.png",
+      "readme": "https://github.com/[YourUsername]/SNAPSPUNK-FALLOUT4#readme",
+      "download": "https://authored-files.wabbajack.org/SNAPSPUNK-FALLOUT4_Traditional_[VERSION].wabbajack",
+      "machineURL": "SNAPSPUNK-FALLOUT4-Traditional",
+      "discordURL": "https://discord.gg/[YourInviteCode]"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "[GeneratedByWabbajack]",
       "Size": 0,
       "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
       "NumberOfInstalledFiles": 0,
       "SizeOfInstalledFiles": 0
     },
