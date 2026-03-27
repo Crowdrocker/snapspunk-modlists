@@ -1,0 +1,24 @@
+
+Full separator lists are in the repo under `/separators/`.
+
+## Updating
+
+Always backup saves. Check changelog before updating. Wabbajack will handle file cleanup.
+
+## Known Issues
+
+(Will be populated as you test)
+
+## Contact & Support
+
+Discord: [link placeholder — update before PR]
+Twitch: [link placeholder]
+
+---
+
+**License**: Open permissions — you may fork, modify, and re-upload as long as you rename the list and give credit in the README.
+
+Made with ❤️ for the modding community.
+  {
+    "url": "https://raw.githubusercontent.com/WehttamSnaps/snapspunk-modlists/main/modlists.json"
+  }
