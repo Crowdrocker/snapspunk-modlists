@@ -337,11 +337,11 @@ This modlist would not be possible without the incredible work of the Fallout 4 
 
 ### Key Frameworks
 
-- **F4SE** - F4SE Team
-- **Buffout 4 NG** - [Author]
-- **High FPS Physics Fix** - [Author]
-- **Mod Configuration Menu** - [Author]
-- **FallUI** - [Author]
+- **F4SE** - [F4SE Team](https://www.nexusmods.com/fallout4/mods/42147)
+- **Buffout 4 NG** - [alandtse](https://www.nexusmods.com/fallout4/mods/64880)
+- **High FPS Physics Fix** - [Antonix35](https://www.nexusmods.com/fallout4/mods/44798)
+- **Mod Configuration Menu** - [registrator2000](https://www.nexusmods.com/fallout4/mods/21497)
+- **FallUI** - [m8r98a4f2](https://www.nexusmods.com/profile/m8r98a4f2/mods?gameId=1151)
 
 ### Settlement Frameworks
 
